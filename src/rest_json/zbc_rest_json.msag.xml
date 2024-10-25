@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZBC_REST_JSON</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Nachrichtenklasse für das Paket ZBC_REST_JSON</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_REST_JSON</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Ust-ID &amp;1 ist gültig und erfolgreich gegen das VIES-Portal geprüft.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_REST_JSON</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Ust-ID &amp;1 ist nicht gültig, bitte korrigieren.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_REST_JSON</ARBGB>
+     <MSGNR>400</MSGNR>
+     <TEXT>Bad Request</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_REST_JSON</ARBGB>
+     <MSGNR>500</MSGNR>
+     <TEXT>Internal server error</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

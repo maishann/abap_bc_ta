@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZBC_TRANSPORT</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Nachrichtenklasse für das Paket ZBC_TRANSPORT</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Verbindung mit FTP Server &amp;1 aufbauen.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Datei &amp;1 von Server &amp;2 holen.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Verbindung mit FTP Server &amp;1 schließen.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Datei &amp;1 auf Server &amp;2 schreiben.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Dateien von Server &amp;1 holen.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Dateien auf Server &amp;1 schreiben.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Abbruch durch User.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Beim Import trat ein Fehler auf.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Unbekannter Fehler.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Beim Anhängen trat ein Fehler auf.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Fehler beim Datei-Transfer</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Datei ist bereits vorhanden.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Default-Variante &amp; wurde übernommen.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>100</MSGNR>
+     <TEXT>Fehler beim Öffnen von Verzeichnis &amp;1 ( &amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>101</MSGNR>
+     <TEXT>Fehler beim Anlegen der Datei</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>102</MSGNR>
+     <TEXT>Fehler beim Öffnen der Quelldatei</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>103</MSGNR>
+     <TEXT>Fehler beim Öffnen der Zieldatei</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>104</MSGNR>
+     <TEXT>Fehler beim Löschen einer Datei</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>105</MSGNR>
+     <TEXT>Im Verzeichnis &amp; ist Löschen von Dateien nicht erlaubt.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>106</MSGNR>
+     <TEXT>Datei existiert nicht</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>107</MSGNR>
+     <TEXT>Datei kann nicht gelesen werden.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>108</MSGNR>
+     <TEXT>Keine Berechtigung zum Lesen/Schreiben der Datei.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>109</MSGNR>
+     <TEXT>Keine Berechtigung für den Import des Transportes</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_TRANSPORT</ARBGB>
+     <MSGNR>110</MSGNR>
+     <TEXT>Fehler bei der Anzeige der Import-Queue</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

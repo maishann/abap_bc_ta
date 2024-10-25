@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZBC_EXCEL</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Nachrichtenklasse für das Paket ZBC_EXCEL</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_EXCEL</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Dateiname &amp;1 ist kein Excel-Format.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_EXCEL</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Dateipfad überschreitet zulässige Pfadlänge von Zeichen.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC_EXCEL</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Fehler während der Transformation der Excel-Datei in die interne Tabelle.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

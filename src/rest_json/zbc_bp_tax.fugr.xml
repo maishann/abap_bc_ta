@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>BTE-Functions for BP tax validation</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZBC_BP_TAXTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZBC_BP_TAX</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZBC_VIES_BUPA_PAI_BUP520</FUNCNAME>
+     <SHORT_TEXT>Check VAT ID number</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
